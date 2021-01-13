@@ -3,6 +3,8 @@ Discord Webhook flooder/tester made with Python.
 
 It is either tester or flooder because you can do both.
 
+![banner](./banner.png "Simple Banner")
+
 ## Requirements
 This python script only uses standard python libraries.
 
@@ -11,10 +13,13 @@ You just need to setup ``config.json`` file with the required information about 
 
 ## Setting up config.json
 - ``"webhook_url"``
+
 This field is reserved to the webhook's url
 - ``"avatar_url"``
+
 This field is reserved to overwrite the webhook's icon when the message is sent
 - ``"username"``
+
 This field is reserved to overwrite the webhook's username when the message is sent
 
 ## Errors
