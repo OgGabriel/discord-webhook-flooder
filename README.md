@@ -20,6 +20,9 @@ This field is reserved to overwrite the webhook's username when the message is s
 ## Errors
 Whenever you do not provide a value for ``"webhook_url"`` or ``config.json`` is not found it throws an error.
 - value for ``"webhook_url"`` not provided
-![wbhknotprovided](https://prnt.sc/wm6x3c "Webhook URL not defined")
+
+![wbhknotprovided](./webhooknotdefined.png "Webhook URL not defined")
+
 - ``config.json`` not found
-![configjsonnotfound](https://prnt.sc/wm6xni "config.json not found")
+
+![configjsonnotfound](./configjsonnotfound.png "config.json not found")
